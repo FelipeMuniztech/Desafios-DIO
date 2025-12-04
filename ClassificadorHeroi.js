@@ -25,8 +25,6 @@ if (xpDoHeroi < 1000) {
     nivel = "Radiante";
 }
 
-// 4. Saída: Exibir a mensagem final
 console.log("O Herói de nome **" + nomeDoHeroi + "** está no nível de **" + nivel + "**");
 
-// Exemplo de Saída para xpDoHeroi = 8500:
-// O Herói de nome **Fênix Sombria** está no nível de **Ascendente**
+
